@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=DronePathSolver
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=filename
+comment2.target=void\ readZooFile(java.lang.String)
+comment3.params=
+comment3.target=void\ printDebugInfo()
+comment4.params=
+comment4.target=generateRuns()
+comment5.params=x1\ y1\ x2\ y2
+comment5.target=int\ distance(int,\ int,\ int,\ int)
+comment6.params=z
+comment6.target=int\ takeoffLandCost(int)
+comment7.params=z
+comment7.target=int\ landingCost(int)
+numComments=8
